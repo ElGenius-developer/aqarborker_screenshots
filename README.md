@@ -11,6 +11,5 @@
 ![](https://github.com/ElGenius-developer/aqarborker_screenshots/blob/main/rateCompoundOfUserAleardyLiveIn.jpg),
 ![](https://github.com/ElGenius-developer/aqarborker_screenshots/blob/main/rateSent.jpg),
 ![](https://github.com/ElGenius-developer/aqarborker_screenshots/blob/main/resellUnits.jpg),
-![](https://github.com/ElGenius-developer/aqarborker_screenshots/blob/main/unitDetails.jpg),
-![](https://github.com/ElGenius-developer/aqarborker_screenshots/blob/main/units.jpg),
+![](https://github.com/ElGenius-developer/aqarborker_screenshots/blob/main/unitDetails.jpg), ![](https://github.com/ElGenius-developer/aqarborker_screenshots/blob/main/units.jpg),
 
